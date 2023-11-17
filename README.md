@@ -1,16 +1,17 @@
-# quiz_app
+# Football Quiz App
 
-A new Flutter project.
+## Overview
+Welcome to the Football Quiz App! This is a fun and interactive quiz app built using Flutter. Test your football knowledge with a variety of questions from around the world.
+
+## Features
+- **Multiple Quiz Categories**: Choose from various categories like World Cup, Famous Players, Football History, and more.
+- **Interactive UI**: Enjoy a clean and engaging user interface that enhances your quiz experience.
+- **Progress Tracking**: Keep track of your scores and progress as you improve your football knowledge.
 
 ## Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Prerequisites
+- Flutter SDK
+- Dart SDK
+- VS Code
